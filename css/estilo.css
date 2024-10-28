@@ -29,3 +29,17 @@ header{
     align-items: center;
     justify-content: space-between;
 }
+header h1{
+    font-size: 2.8em;
+    font-weight: 400;
+    cursor: pointer;
+}
+header nav{
+    display: flex;
+    align-items: center;
+}
+header nav a{
+    font-size: 1.3em;
+    margin-right: 1.4em;
+    padding: 14px;
+}
