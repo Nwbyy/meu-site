@@ -81,4 +81,7 @@ main .techs .cards-container .card{
     height: 120px;
     padding: 10%;
     background-color:violet;
+    border-radius: 8px;
+    margin-right: 1.8em;
+    
 }
