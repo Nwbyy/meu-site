@@ -64,8 +64,8 @@ main .main-content h2{
     margin-bottom: 2%;
     font-size: 2.2em;
 }
-main .card-comtent h2{
-
+main .main-comtent .text{
+    margin-bottom: 10%;
 }
 main .main-content .text p{
     width: 75%;
