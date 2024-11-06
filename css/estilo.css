@@ -94,5 +94,12 @@ main .techs .cards-container .card:nth-child{
 }
 main .techs .cards-container .card img{
     width:60%;
+    justify-content: center;
     transition: 0.2s ease-in-out;
+}
+main .techs .cards-container .card:nth-child(4){
+    margin-right: 0em;
+}
+main .techs .cards-container .card:hover{
+    box-shadow: 0px 0px 8px;
 }
