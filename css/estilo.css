@@ -86,7 +86,7 @@
     }
     main .techs .cards-container .card{
     width: 120px;
-    text-decoration-color: black;
+    color: black;
     height: 120px;
     padding: 10px;
     background-color: #7d0cff;
